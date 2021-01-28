@@ -1,0 +1,20 @@
+[LAUGHS],Speaker
+[LAUGHTER] ,Multiple people - no way to accurately detect duration
+[SIGHS] ,Single
+[SIGHING] ,Multiple sighs
+[SOB],Short sob
+[SOBBING],Sobbing while speaking
+[CRYING],Crying without speech
+[MOANS],A short moan
+[MOANING],A longer period of moaning from emotional pain
+[SINGING],"Singing, humming, etc. without words"
+[SINGING] +lyrics,Singing if lyrics in English (example: [SINGING] Oh say can you see… )
+[PAUSES] ,Longer than 3 seconds with duration included.
+[DRINKS],Any drinking
+[BACKGROUND NOISE],"Used for any background noise like honking, alarms, sirens, telephones, babies crying, storms, hammering, dogs barking, toddler noise, etc."
+[POINTS],Single
+[POINTING],"Multiple points, for example, pointing naming multiple people in the same photo"
+[INTERPOSING VOICES],"When people speak over each other, but most of what is being said can be made out,  [INTERPOSING VOICES] would be at the start, but then the rest would be transcribed to the best of the transcribers ability, but in complete sentences.  "
+[INAUDIBLE],"Used to replace words that can not be heard or understood.  This could be due to thick accents, subject speech quality and/or audio quality."
+[?flagged word?],Used when words or proper nouns can not be confirmed by editors.  Best guess by editor.
+[non-English speech],"Used with the editor can identify the language being spoke but can not make out what is being said.  Example: single word [POLISH], [HEBREW], etc.  Multiple words or sentence [SPEAKING POLISH], [SPEAKING HEBREW]. Etc."
