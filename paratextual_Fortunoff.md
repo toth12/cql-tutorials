@@ -1,0 +1,17 @@
+[INTERPOSING VOICES]
+[INAUDIBLE]
+[APPLAUSE]
+[LAUGHTER]
+[LAUGHS]
+[CHEERING]
+[BOOING]
+[COUGHS]  - (once) 
+[COUGHING] - (extended)
+[SNEEZES]  - (once)
+[SNEEZING] -(multiple/extended)
+[NON-ENGLISH SPEECH] (or if the language is known, [SPEAKING FRENCH]
+[MUSIC PLAYING]
+[CRYING]
+[SOBBING]
+[SCREAMING]
+[PHONE RINGING]
